@@ -1,1 +1,1 @@
-( [GitHub link] (https://calbertjr.github.io/markdown-portfolio/))
+( [GitHub link](https://calbertjr.github.io/markdown-portfolio))
